@@ -18,6 +18,7 @@ All the files below are text files.
 The following are the functions of some linux commands.
 
 | Command | Function |
+| ------- | -------- | 
 | `man` | Displays manual page or documentation of commands. |
 | `ls` | List files and directories in the current working directory. |
 | `cd` | Change current working directory. |
