@@ -41,6 +41,7 @@ The following are the functions of some linux commands.
 | `echo` | Print a message to console. |
 | `ps` | Display current running processes. |
 | `less` | Display contents of a file. |
+| `&&` | Command separator that allows running of multiple commands on the same line. |
 
 
 ## Terminologies
