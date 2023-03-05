@@ -1,0 +1,28 @@
+## Linux
+
+# List of some handy Linux commands:
+
+* man: Used to know about a command by opening the manual page.
+* ls: List files and directories in the current working directory.
+* cd: Change the current working directory.
+* mkdir: Create a new directory.
+* rmdir: Deletes directory
+* touch: Create new file.
+* echo "text" > file_name: Creates new file with text in it.
+* cp: copy file or directory to another location
+* mv: Rename or move file or directory to another location
+* rm: Delete a file or directory
+* chmod mode_parameter file_name: Change permissions(read, write, execute) of a file or directory. The 'mode_parameter is a combination of three digits, where each digit corresponds to the permission for the owner, group, and others respectively(0 - no permission, 1 - execute, 2 - write, 3 - write and execute, 4 - read, 5 - read and execute, 6 - read and write, 7 - read, write, and execute)
+* ls -l: Used to view permissions of a file.
+* chown: Change file or directory ownership.
+* pwd: Print current working directory.
+* sudo: Run a command with superuser privileges.
+* head: Display first few lines of a file.
+* tail: Display last few lines of a file.
+* wc: Count the number of lines, words, and characters in a file.
+* uname: Print info about operating system and system hardware.
+* grep: search for a pattern in a file or directory.
+* echo: Print message to console.
+* ps: Display current running processes.
+* less: View contents of a file.
+
