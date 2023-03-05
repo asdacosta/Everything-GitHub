@@ -1,4 +1,4 @@
-`# Shell & GitHub
+# Shell & GitHub
 Personal project that aims to learn about everything in GitHub and Shell. It shows some of the terms and commad I use regularly.
 
 ## Technologies
