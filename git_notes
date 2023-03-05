@@ -1,0 +1,49 @@
+## GITHUB
+
+Terms:
+
+GitHub is a collaboration platform which provides web-based graphical interface that helps manage Git repositories or that uses Git for versioning (creating different versions of software or code, with each representing a set of changes or updates).
+
+Git is an open-source version control system that is used to manage and keep track of changes to source codes.
+
+Repository is a project or storage location containing files and folders.
+
+Open source refers to a software or project for which the source code is designed to be publicly accessible for free, granting users  the permission to use, modify, and distribute the code.
+
+Source code is a set of written instructions that make up a computer program, written in programming language. It can be used interchangeably with code.
+
+Version Control/Revision control/Source control/Source code management System is a software used to track and manage changes made to source codes. Examples include Git, Mercurial, and Subversion.
+
+README is a file in a repository that provides info about the project.
+
+Branch is a copy of a codebase that allows developers to work on different versions or features of that codebase. When a new branch is created, it is a clone of the original codebase (main/master). 
+
+Developers can now make changes to the code on the newly created branch without affecting the original code of the main/master branch. Branches can be merged into the original branch after changes has been tested and approved.  This allows developers to work on different features or versions of the codebase simultaneously, while keeping the main branch stable and updated with approved changes.
+
+Codebase is the collection of source code files and resources that make up a software project.
+
+
+# Setting Up Linux system
+
+To configure GitHub details:
+> git config --global user.name "user_name"
+> git config --global user.email "email_address"
+
+To pull repository from GitHub:
+> git clone https://github.com/user_name/repository_name.git
+(Replace 'user_name' with GitHub username and 'repository_name' with name of the repo. )
+
+To check for all branches:
+> git branch -a
+To check the branch currently working on:
+> git branch
+To switch to a branch:
+> git checkout branch_name
+To create a new branch and switch to it:
+> git checkout -b branch_name
+
+To set up personal access token in Linux system, which allows to authenticate without GitHub password:
+( Go to GitHub account settings -> Developer settings -> Personal access tokens -> Classic -> Generate new token )
+> cd repository_name
+> git remote set-url origin https://user_name:the_token@github.com/user_name/repository_name.git
+(Replace 'user_name' with GitHub username, 'the_token' with the generated personal access token, and 'repository_name' with name of the repo.)
