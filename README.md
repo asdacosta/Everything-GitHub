@@ -13,9 +13,9 @@ All the files below are text files.
 | Filename | Discription |
 | -------- | ----------- |
 
-## Linux Command
+## Shell Command
 
-The following are the functions of some linux commands.
+The following are the functions of some shell or linux commands.
 
 | Command | Function |
 | ------- | -------- | 
