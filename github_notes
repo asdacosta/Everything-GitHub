@@ -1,6 +1,8 @@
-# GITHUB
+# GITHUB Terminologies
 
-**GitHub** is a collaboration platform which provides web-based graphical interface that helps manage Git repositories or that uses Git for versioning (creating different versions of software or code, with each representing a set of changes or updates).
+## Tech
+
+GitHub is a collaboration platform which provides web-based graphical interface that helps manage Git repositories or that uses Git for versioning (creating different versions of software or code, with each representing a set of changes or updates).
 Git is an open-source version control system that is used to manage and keep track of changes to source codes.
 Repository is a project or storage location containing files and folders.
 Open source refers to a software or project for which the source code is designed to be publicly accessible for free, granting the users to use, modify, and distribute the code.
