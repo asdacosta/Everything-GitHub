@@ -8,7 +8,10 @@ Personal project that aims to learn about everything in GitHub and Shell. It sho
 
 ## Files In `linux_shell`
 
-The following are executable shell scripts.
+The following are executable shell scripts. To run script in command line:
+~~~
+./script_name 
+~~~
 
 | Script | Functions |
 | -------- | ----------- |
