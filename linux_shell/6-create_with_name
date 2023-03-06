@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "#!/bin/bash \n echo -e 'Hello!$1.\\nI love your name. Nice knowing you $1.'" > intro
