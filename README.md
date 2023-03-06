@@ -24,7 +24,7 @@ The following are executable shell scripts. To run script in command line:
 | `intro` | Script created from executing the above script, which displays text with name that was specified earlier `Name`. |
 | `7-give_perm [Permission] [File name]` | Change the permission of a any file name and echo the changes made. |
 | `8-top_bottom [File name]` | Display first three lines and last four lines of `File name`. |
-| `9-how_many [Text] [File name]` | Display the number of lines containing the string `Text`, including the uppercase and lowercase of the string. |
+| `9-how_many [Text] [File name]` | Display the number of lines containing the string `Text` in the file `File name`, including  uppercase and lowercase of the string. |
 
 
 ## Shell Command
