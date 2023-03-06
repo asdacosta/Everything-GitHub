@@ -6,12 +6,14 @@ Personal project that aims to learn about everything in GitHub and Shell. It sho
 * `VS Code`
 * `Vi` text editor
 
-## Files
+## Files In `linux_shell`
 
-All the files below are text files.
+The following are executable shell scripts.
 
-| Filename | Discription |
+| Script | Functions |
 | -------- | ----------- |
+| `0-echo` | Echo two sentences on two different lines on the console. |
+| `1-echo` | Echo files and directories ending with the string .txt on the console without a new line. |
 
 ## Shell Command
 
