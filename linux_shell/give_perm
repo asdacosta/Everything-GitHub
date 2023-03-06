@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Assign args to variables
+perm=$1
+file=$2
+
+# Change file permission
+chmod $perm $file
+echo "File $file's permission has been changed to $perm"
