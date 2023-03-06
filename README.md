@@ -19,7 +19,9 @@ The following are executable shell scripts. To run script in command line:
 | `1-echo` | Echo files and directories ending with the string .txt on the console without a new line. |
 | `3-man [Command]` | Display brief description of any shell command. |
 |  `4-list_previous` | List all files and directories in parent directory of the current working directory. |
-| `5-dir [Permission] [Directory name]` | Create a directory with a specified name `Directory name` and permission for only the owner `Permission`. |
+| `5-dir [Permission] [Directory name]` | Create a directory with any specified name `Directory name` and permission for only the owner `Permission`. |
+| `6-create_with_name [Name]` | Create a script that when executed, displays an intro to the name `Name`. |
+| `intro` | Script created from executing the above script, which displays text with name that was specified earlier. |
 
 
 ## Shell Command
