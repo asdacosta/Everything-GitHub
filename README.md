@@ -18,6 +18,7 @@ The following are executable shell scripts. To run script in command line:
 | `0-echo` | Echo two sentences on two different lines on the console. |
 | `1-echo` | Echo files and directories ending with the string .txt on the console without a new line. |
 | `3-man [Command]` | Display brief description of any shell command. |
+|  `4-list_previous` | List all files and directories in parent directory of the current working directory. |
 
 ## Shell Command
 
