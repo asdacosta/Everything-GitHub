@@ -25,7 +25,7 @@ chmod +x script_name
 ~~~
 To run script in command line:
 ~~~
-./script_name 
+./script_name [Option (If there should be)]
 ~~~
 
 ## Files In `linux_shell` Directory
