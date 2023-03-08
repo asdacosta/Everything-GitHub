@@ -18,12 +18,18 @@ Developers, users, and recruiters.
 
 ## How To Get Started (Developers & Users)
 Users should go through the notes, `git_notes` and `shell_notes`, to grasp the concepts before tackling the practical aspect: creating each script in `linux_shell` directory that performs the respective function as shown in the table below.
-
-## Files In `linux_shell` Directory
-The following are executable shell scripts. To run script in command line:
+### How To Test Code
+Make script executable:
+~~~
+chmod +x script_name
+~~~
+To run script in command line:
 ~~~
 ./script_name 
 ~~~
+
+## Files In `linux_shell` Directory
+The following are executable shell scripts. 
 
 | Script | Functions |
 | -------- | ----------- |
