@@ -1,13 +1,26 @@
 # Shell & GitHub
-Personal project that aims to learn about everything in GitHub and Shell. It shows some of the terms and commad I use regularly.
+
+## Project Origin
+Personal project.
+
+## Project Objective
+Aims to learn about everything in GitHub and Shell. It shows some of the terms and command I use regularly.
+
+## Project Relevance
+The project made me grasp the fundamentals and concepts in GitHub and Shell. I practiced with each command via mini projects to solidify all that I learnt.
+
+## Intended Audience
+Developers, users, and recruiters.
 
 ## Technologies
 * `Ubuntu` in Terminal
 * `VS Code`
 * `Vi` text editor
 
-## Files In `linux_shell`
+## How To Get Started (Developers & Users)
+Users should go through the notes, `git_notes` and `shell_notes`, to grasp the concepts before tackling the practical aspect: creating each script in `linux_shell` directory that performs the respective function as shown in the table below.
 
+## Files In `linux_shell` Directory
 The following are executable shell scripts. To run script in command line:
 ~~~
 ./script_name 
@@ -28,7 +41,6 @@ The following are executable shell scripts. To run script in command line:
 
 
 ## Shell Command
-
 The following are the functions of some shell or linux commands.
 
 | Command | Function |
@@ -59,7 +71,6 @@ The following are the functions of some shell or linux commands.
 
 
 ## Terminologies
-
 The following are some concepts in GitHub
 
 | Terms | Discription |
@@ -74,3 +85,7 @@ The following are some concepts in GitHub
 | `Branch` | Is a copy of a `codebase` that allows developers to work on different versions or features of that codebase. When a new branch is created, it is a clone of the original codebase (main/master). Developers can now make changes to the code on the newly created branch without affecting the original code of the main/master branch. Branches can be merged into the original branch after changes has been tested and approved.  This allows developers to work on different features or versions of the codebase simultaneously, while keeping the main branch stable and updated with approved changes. |
 | `Codebase` | Is simply the collection of source code files and resources that make up a software project. |
 
+~~~
+# Maintainer & Contributor
+- Abraham Da Costa Silvanus
+- https://github.com/asdacosta
