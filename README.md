@@ -3,7 +3,7 @@
 Personal project.
 
 ## Project Objective
-Aims to learn about everything in GitHub and Shell. It shows some of the terms and command I use regularly.
+Aims to learn about everything in GitHub and Shell. It entails terms and commands I use regularly.
 
 ## Project Relevance
 The project made me grasp the fundamentals and concepts in GitHub and Shell. I practiced with each command via mini projects to solidify all that I learnt.
