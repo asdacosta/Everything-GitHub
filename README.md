@@ -88,8 +88,7 @@ The following are some concepts in GitHub
 * Abraham Da Costa Silvanus
 * https://github.com/asdacosta
 
-<style>
-    h2, h3 {
-        border-bottom: none;
-    }
-</style>
+```css
+h2, h3, h4 {
+    text-decoration: none;
+}
