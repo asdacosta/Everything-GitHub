@@ -84,6 +84,6 @@ The following are some concepts in GitHub
 | `Branch` | Is a copy of a `codebase` that allows developers to work on different versions or features of that codebase. When a new branch is created, it is a clone of the original codebase (main/master). Developers can now make changes to the code on the newly created branch without affecting the original code of the main/master branch. Branches can be merged into the original branch after changes has been tested and approved.  This allows developers to work on different features or versions of the codebase simultaneously, while keeping the main branch stable and updated with approved changes. |
 | `Codebase` | Is simply the collection of source code files and resources that make up a software project. |
 
-# Maintainer & Contributor
+## Maintainer & Contributor
 * Abraham Da Costa Silvanus
 * https://github.com/asdacosta
