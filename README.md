@@ -1,4 +1,4 @@
-# Project Name: Shell & GitHub
+# Shell & GitHub Project
 ## Project Origin
 Personal project.
 
@@ -85,5 +85,5 @@ The following are some concepts in GitHub
 | `Codebase` | Is simply the collection of source code files and resources that make up a software project. |
 
 ### Curator & Contributor
-Abraham Da Costa Silvanus
-https://github.com/asdacosta
+* Abraham Da Costa Silvanus
+* https://github.com/asdacosta
