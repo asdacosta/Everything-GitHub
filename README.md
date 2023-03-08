@@ -85,10 +85,5 @@ The following are some concepts in GitHub
 | `Codebase` | Is simply the collection of source code files and resources that make up a software project. |
 
 ## Curator & Contributor
-* Abraham Da Costa Silvanus
-* https://github.com/asdacosta
-
-```css
-h2, h3, h4 {
-    text-decoration: none;
-}
+Abraham Da Costa Silvanus
+https://github.com/asdacosta
